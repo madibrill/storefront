@@ -1,0 +1,126 @@
+.title{
+    float: left;
+    font-family: 'Comfortaa', fantasy, -apple-system, sans-serif;
+    font-size: 40px;
+    margin-top: -35px;
+    margin-left: 60px;
+    color: rgba(255, 255, 255, 0.726);
+}
+.navb{
+    float: right;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+    word-spacing: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.nav2{
+    float: right;
+    font-family: 'american typewriter', fantasy, serif;
+    font-size: 30px;
+    margin-top: 60px;
+    margin-right: -300px;
+    word-spacing: 29px;
+    color: rgba(255, 255, 255, 0.726);
+}
+.genres{
+    font-family: 'Comfortaa', sans-serif;
+    margin-top: 80px;
+
+}
+a{
+    text-decoration: none; 
+    color: rgba(255, 254, 254, 0.877);
+}
+.heading{
+    margin-left: 35%;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 30px;
+    position: absolute;
+    top: 15px;
+    color: rgba(255, 255, 255, 0.726);
+}
+#sidebar{
+    width: 33%;
+    height: 870px;
+    float: left;
+    position: absolute;
+    top: 160px;
+    background-image: url("../storefront-project/wood-panel-background.jpg");
+}
+header{
+    width: 100.5%;
+    height: 150px;
+    background-image: url(../storefront-project/books1.png);
+}
+#main{
+    float: left;
+    width: 66%;
+    height: 870px;
+    position: absolute;
+    top: 160px;
+    left: 34%;
+    background-image: url("../storefront-project/wood-panel-background.jpg");
+}
+.genres li{
+    padding-top: 20px;
+    display: block;
+    margin-left: 20px;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    margin-top: 900px;
+    background-color: rgb(128, 128, 128);
+}
+.book{
+    width: 250px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.genre{
+    margin-left: 24%;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 30px;
+    position: absolute;
+    top: 15px;
+    color: rgba(255, 255, 255, 0.726);
+
+}
+.nav2 a:hover{
+    color: rgba(0, 0, 0, 0.692);
+}
+.navb a:hover{
+    color: rgba(0, 0, 0, 0.692);
+}
+.genres a:hover{
+    color: rgba(201, 197, 197, 0.753);
+}
+.bottomstuff{
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    left: 50%;
+}
+.copyright{
+    float: right;
+    margin-right: 20px;
+    padding: -10px;
+    margin-top: 10px;
+    color: rgba(255, 255, 255, 0.726);
+}
+footer ul li {
+    display: inline-block;
+    padding: 0 0.7em 0 0;
+    margin: 0;
+}
+footer a:hover {
+    color: rgba(0, 0, 0, 0.692);
+}
+
+
+/*
+colors
+footer
+
+*/
