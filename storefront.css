@@ -45,12 +45,12 @@ a{
     float: left;
     position: absolute;
     top: 160px;
-    background-image: url("../storefront-project/wood-panel-background.jpg");
+    background-image: url("wood-panel-background.jpg");
 }
 header{
     width: 100.5%;
     height: 150px;
-    background-image: url(../storefront-project/books1.png);
+    background-image: url("books1.png");
 }
 #main{
     float: left;
@@ -59,7 +59,7 @@ header{
     position: absolute;
     top: 160px;
     left: 34%;
-    background-image: url("../storefront-project/wood-panel-background.jpg");
+    background-image: url("wood-panel-background.jpg");
 }
 .genres li{
     padding-top: 20px;
